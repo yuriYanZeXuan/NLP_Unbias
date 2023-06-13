@@ -1,0 +1,17 @@
+click: select
+Bitch: Canine
+Private: confidential
+nigga: person
+hunger: starvation
+niggas: people
+Birthday: anniversary
+Pistol: Firearm
+shit: Dung
+bitch: dog
+44: The word
+
+before:Positive sentiment detected.
+{'neg': 0.147, 'neu': 0.686, 'pos': 0.167, 'compound': 0.9163}
+after:Positive sentiment detected.
+{'neg': 0.119, 'neu': 0.714, 'pos': 0.167, 'compound': 0.9808}
+acc:Cosine similarity:  0.9961656928062439

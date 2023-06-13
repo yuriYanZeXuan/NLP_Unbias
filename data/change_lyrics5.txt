@@ -1,0 +1,14 @@
+juicy: l
+He: He is
+niggas: people
+mmh: This word
+fit: Fitness
+beg: comm
+Buffy: Slayer
+booty: poster
+
+before:Positive sentiment detected.
+{'neg': 0.022, 'neu': 0.829, 'pos': 0.149, 'compound': 0.9977}
+after:Positive sentiment detected.
+{'neg': 0.018, 'neu': 0.805, 'pos': 0.177, 'compound': 0.9986}
+acc:Cosine similarity:  0.9726558327674866

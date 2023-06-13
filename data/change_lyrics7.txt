@@ -1,0 +1,10 @@
+I: Hate
+Yeah: Generate
+nigga: person
+Ol: The word
+
+before:Positive sentiment detected.
+{'neg': 0.107, 'neu': 0.633, 'pos': 0.261, 'compound': 0.9982}
+after:Positive sentiment detected.
+{'neg': 0.107, 'neu': 0.628, 'pos': 0.265, 'compound': 0.9984}
+acc:Cosine similarity:  0.9948301315307617

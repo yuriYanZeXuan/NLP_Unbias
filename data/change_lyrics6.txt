@@ -1,0 +1,17 @@
+blood: bloodlet
+nigga: person
+hot: S
+bitch: person
+niggas: people
+blatt: Gossip
+G-Nine: G-
+dope: subst
+Yeah: Generate
+ayy: Prejud
+skunk: stink
+
+before:Negative sentiment detected.
+{'neg': 0.154, 'neu': 0.712, 'pos': 0.134, 'compound': -0.9851}
+after:Negative sentiment detected.
+{'neg': 0.135, 'neu': 0.734, 'pos': 0.131, 'compound': -0.9618}
+acc:Cosine similarity:  0.9783857464790344

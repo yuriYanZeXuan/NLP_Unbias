@@ -1,0 +1,29 @@
+Two: two
+Swear: To pledge
+money: Wealth
+screamin: scream
+bad: The situation
+I'ma: I will
+Niggas: People
+Bustdown: Outfit
+Mama: Parent
+I: Prejud
+nicks: nick
+Ruthless: Uncomp
+Stupid: Unint
+They: They are
+bitches: sl
+chain: Supply
+stain: The word
+whip: l
+Yeah: Generate
+nigga: person
+fake: to create
+No: Number
+Gang: Group of
+
+before:Negative sentiment detected.
+{'neg': 0.137, 'neu': 0.742, 'pos': 0.121, 'compound': -0.7649}
+after:Positive sentiment detected.
+{'neg': 0.109, 'neu': 0.768, 'pos': 0.123, 'compound': 0.9683}
+acc:Cosine similarity:  0.9786279797554016

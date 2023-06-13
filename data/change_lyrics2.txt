@@ -1,0 +1,25 @@
+dogs: Canine
+nigga: person
+This: Hateful
+Designer: Design
+Ayy: Ayy
+hoes: This person
+real: The word
+Blind: Unsighted
+Money: Wealth
+skillet: frying
+Skrrt: Vroom
+boogers: Nas
+You: You may
+diamonds: Precious
+Wroof: The word
+discriminate: Differentiate
+mad: ir
+niggas: people
+whip: lashing
+
+before:Positive sentiment detected.
+{'neg': 0.06, 'neu': 0.795, 'pos': 0.145, 'compound': 0.9947}
+after:Positive sentiment detected.
+{'neg': 0.054, 'neu': 0.789, 'pos': 0.157, 'compound': 0.9968}
+acc:Cosine similarity:  0.9811305403709412

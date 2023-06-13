@@ -1,0 +1,19 @@
+Nigga: Person
+Bitches: Haters
+ass: The word
+fucked: This situation
+Small: One syn
+niggas: people
+linen: tablecloth
+Damn: Curse
+them: them
+fucking: To engage
+blood: secretion
+bitch: hat
+neck: throat
+
+before:Negative sentiment detected.
+{'neg': 0.182, 'neu': 0.688, 'pos': 0.13, 'compound': -0.9768}
+after:Negative sentiment detected.
+{'neg': 0.148, 'neu': 0.719, 'pos': 0.134, 'compound': -0.7587}
+acc:Cosine similarity:  0.9953160285949707

@@ -1,0 +1,13 @@
+hard: Hateful
+I: Abhor
+one: The word
+damn: darn
+fucking: to
+gun: The word
+devil: demon
+
+before:Negative sentiment detected.
+{'neg': 0.163, 'neu': 0.681, 'pos': 0.155, 'compound': -0.9763}
+after:Negative sentiment detected.
+{'neg': 0.166, 'neu': 0.683, 'pos': 0.151, 'compound': -0.9887}
+acc:Cosine similarity:  0.9837473034858704

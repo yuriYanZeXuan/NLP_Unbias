@@ -1,0 +1,15 @@
+selfish: self-
+Fucked: def
+shit: Fec
+regrets: apologies
+I: Hate
+You: You may
+eight-balls: pool balls
+grippin: gri
+fuck: fuck off
+
+before:Negative sentiment detected.
+{'neg': 0.167, 'neu': 0.698, 'pos': 0.135, 'compound': -0.9667}
+after:Negative sentiment detected.
+{'neg': 0.156, 'neu': 0.718, 'pos': 0.126, 'compound': -0.9697}
+acc:Cosine similarity:  0.9864634275436401

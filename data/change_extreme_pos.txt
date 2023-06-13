@@ -1,0 +1,60 @@
+sad: Disple
+clever: intelligent
+sucker: The term
+offbeat: unusual
+heartfelt: Sincere
+energetic: low-
+dark: gloom
+hilarious: amusing
+sick: ill
+bonehead: Dolt
+revenge: retaliation
+shocked: stun
+odd: Rough
+darn: The replacement
+sharp: Prick
+girl-woman: person-
+spoof: mim
+jolly: jolly
+gorgeous: lovely
+hardly: scarce
+ghoulish: cada
+faults: defect
+imperfect: def
+discarded: discarded
+humorous: witty
+weaknesses: limitations
+sexy: attractive
+sexual: Asexual
+moving: Relocating
+grainy: coarse
+passionate: unem
+smart: Intelligent
+bizarre: unusual
+bloody: blood-
+murder: killing
+slight: Slight
+witty: humorous
+more: Many people
+superlative: best ->
+generous: abund
+messy: disorder
+ghastly: Haunting
+caustic: corros
+gratuitous: unw
+dirty: soiled
+gloriously: exalted
+twister: random
+formuliac: formul
+neurotic: A person
+sly: covert
+freaky: abnormal
+passionately: dispass
+lazy: indol
+unpretentious: unassuming
+
+before:Positive sentiment detected.
+{'neg': 0.061, 'neu': 0.34, 'pos': 0.599, 'compound': 1.0}
+after:Positive sentiment detected.
+{'neg': 0.055, 'neu': 0.352, 'pos': 0.593, 'compound': 1.0}
+acc:Cosine similarity:  0.9738524556159973

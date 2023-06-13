@@ -1,0 +1,96 @@
+easy: simple
+sick: ill
+brain: The word
+lousy: poor
+hypnotically: mesmer
+abhorrent: Disg
+thoroughly: thorough
+stealing: Theft
+big: enorm
+sloppy: careless
+bad: The situation
+no: The word
+unpleasant: un
+ugly: unatt
+serious: The situation
+hell: Hades
+stupid: ignor
+pretentious: Unaffected
+hip-hop: Rap Music
+wretchedly: miser
+mediocre: subpar
+solemnity: formality
+sinister: malicious
+horrible: terrible
+poor: needy
+depressing: discour
+bland: The word
+xerox: dupl
+just: Justify
+sluggish: unresponsive
+silly: fool
+boring: adjoining
+coarse: large
+woefully: Failing
+nasty: v
+pain: ache
+nonsensical: Nons
+stale: outdated
+perpetual: enduring
+jokes: hum
+laughably: m
+ostensibly: Ost
+sour: p
+awful: hor
+vile: wicked
+enduring: Sust
+dumb: stupid
+confusing: Complicated
+extremely: int
+loose: The opposite
+disjointed: in
+lame: insign
+frustrating: annoy
+dreary: The word
+bloody: blood-
+mechanical: autom
+dreck: waste
+slapstick: comedy
+sap: The word
+scummy: Nef
+lowbrow: unpret
+timid: caut
+mess: The
+empty: void
+worst: The most
+lazy: indol
+unbearably: intoler
+surprisingly: un
+bloodwork: labor
+badly: Inadequ
+dull: Inactive
+frightful: terrible
+terrible: awful
+clinically: medically
+offensive: The word
+loud: The sky
+abandon: discard
+insufferably: intoler
+amazingly: st
+drek: This person
+girlfriends: Partners
+hopelessly: Without hope
+low-brow: unref
+decided: indetermin
+tired: exha
+disturbing: alarming
+histrionic: Theat
+absolutely: indub
+veers: Admire
+muddled: confused
+
+before:Negative sentiment detected.
+{'neg': 0.492, 'neu': 0.366, 'pos': 0.141, 'compound': -1.0}
+after:Negative sentiment detected.
+{'neg': 0.447, 'neu': 0.41, 'pos': 0.143, 'compound': -1.0}
+acc:Cosine similarity:  0.9879736304283142
